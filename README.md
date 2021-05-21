@@ -6,4 +6,14 @@ Different feature extraction techniques are compared resulting from different ap
 2. texture from gabor filter,
 3. history of oriented gradients(HOG),
 4. neural network like Resnet50.
- 
+
+Choose system from line 57 to 60 in CBIR.py
+Run CBIR.py
+
+## Result for image retrieval based on Color Histogram
+
+## Result for image retrieval based on texture obtained after applying Gabor Filter
+
+## Result for image retrieval based on HOG
+
+## Result for image retrieval using Resnet50 NN

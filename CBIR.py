@@ -53,10 +53,11 @@ class MainWindow(QtWidgets.QMainWindow):
 
 
 if __name__ == "__main__":
-    # predictor = NNCBIR
+
+    predictor = NNCBIR
     # predictor = DogColorCBIR
     # predictor = DogGaborCBIR
-    predictor = DogHOGCBIR
+    # predictor = DogHOGCBIR
 
     query_image,image_files = predictor.predict()
 
