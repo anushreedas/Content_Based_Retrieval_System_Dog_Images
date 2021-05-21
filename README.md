@@ -11,6 +11,7 @@ Choose system from line 57 to 60 in CBIR.py
 Run CBIR.py
 
 ## Result for image retrieval based on Color Histogram
+![Result for Color Histogram](https://github.com/anushreedas/Content_Based_Retrieval_System_Dog_Images/blob/main/dogImages/result/Color_result.png)
 
 ## Result for image retrieval based on texture obtained after applying Gabor Filter
 
